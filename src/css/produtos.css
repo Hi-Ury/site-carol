@@ -1,0 +1,273 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: white;
+    position: sticky;
+    padding-bottom: 30px;
+    margin-top: 10px;
+    top: -15px;
+    z-index: 998;
+    border-bottom: 1px solid grey;
+}
+
+.logo img{
+    position: relative;
+    max-width: 300px;
+    top: 35px;
+    
+}
+
+.conta img{
+    position: absolute;
+    max-width: 100px;
+    right: 140px;
+    top: 40px;
+}
+
+.carrinho img{
+    position: absolute;
+    max-width: 50px;
+    right: 100px;
+    top: 40px;
+}
+
+#pesquisa {
+    background-image: radial-gradient(white, #eeeeee, #ddd);
+    border-radius: 10px;
+    max-width: 100%;
+    height: 50px;
+    padding-left: 10px;
+    padding-right: 500px;
+    border: 1px solid #ddd;
+    font-size: 17px;
+}
+
+.buscar {
+    position: relative;
+    display: inline-block;
+    flex-flow: column;
+    justify-content: center;
+    bottom: 10px;
+    left: 320px;
+}
+
+.buscar img{
+    max-width: 70px;
+}
+
+#listap {
+    position: absolute;
+    list-style-type: none;
+    margin: 10px 0px 0px 0px;
+    padding: 0;
+    width: 98%;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    top: 44px;
+    left: 1%;
+}
+
+#listap li a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    border: 1px solid #ddd;
+    background-color: #f6f6f6;
+    padding: 12px;
+}
+
+#listap li a:hover{
+    background-color: #eee;
+}
+
+.iten-name {
+    margin-left: 20px;
+}
+
+.parcela {
+    color: blue;
+}
+
+.pix{
+    color: rgb(104, 172, 3);
+}
+
+.foto{
+    max-width: 700px;
+    position: relative;
+    left: 250px;
+    top: 50px;
+}
+
+.descricao{
+    max-width: 500px;
+    position: relative;
+    left: 1000px;
+    bottom: 550px;
+}
+
+.descricao p{
+    border-top: 1px solid black;
+    position: relative;
+    top: 20px;
+    left: 1px;
+}
+
+.precos{
+    background-color: #f1f0f0;
+    position: relative;
+    left: 1000px;
+    bottom: 500px;
+    padding-bottom: 50px;
+    max-width: 500px;
+}
+
+.precos input{
+    position: relative;
+    left: 256px;
+    top: 27px;
+    width: 70px;
+    height: 35px;
+}
+
+.precos h1, p{
+    position: relative;
+    left: 20px;
+    top: 70px;
+}
+
+.comprar{
+    display: inline-block;
+    position: relative;
+    background-color: rgb(64, 173, 54);
+    display: block;
+    left: 340px;
+    bottom: 14px;
+    min-height: 40px;
+    max-width: 150px;
+    text-decoration: none;
+    color: white;
+    box-shadow: 2px 1px 10px grey;
+}
+
+.comprar img {
+    position: relative;
+    float: left;
+    max-width: 20px;
+    left: 20px;
+    top: 10px;
+}
+
+.comprar h1{
+    font-size: 15px;
+    position: relative;
+    left: 25px;
+    top: 12px;
+}
+
+.entrega {
+    font-size: 15px;
+    display: inline-block;
+    position: relative;
+    left: 1220px;
+    bottom: 580px;
+}
+
+.entrega img{
+    position: absolute;
+    max-width: 40px;
+    left: -45px;
+}
+
+#cep{
+    height: 30px;
+}
+
+.entrega a{
+    font-weight: bold;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    background-color: rgb(14, 8, 65);
+    color: white;
+    padding: 10px 10px;
+
+}
+
+.entrega button :hover{
+    background-color: rgb(187, 48, 48);
+}
+
+.especificacoes {
+    display: inline-block;
+    position: relative;
+    bottom: 200px;
+    left: 100px;
+    max-width: 400px;
+}
+
+footer {
+    position: relative;
+    display: block;
+    font-size: 15px;
+    text-transform: capitalize;
+    background-color: rgb(238, 237, 237);
+    padding-bottom: 150px;
+    overflow-x: hidden;
+}
+
+.pagamento {
+    position: absolute;
+    top: 10px;
+    left: 200px;
+}
+
+.pagamento img {
+    max-width: 250px;
+}
+
+.seguranca {
+    top: 10px;
+    position: absolute;
+    left: 550px;
+}
+
+.seguranca img {
+    max-width: 250px;
+}
+
+.instituicao {
+    position: absolute;
+    top: 10px;
+    right: 750px;
+}
+
+.ajuda {
+    position: absolute;
+    top: 10px;
+    right: 500px;
+}
+
+.social {
+    position: absolute;
+    top: 10px;
+    right: 250px;
+}
+
+.autor {
+    position: relative;
+    top: 20px;
+    left: 800px;
+    padding-bottom: 30px;
+    max-width: 350px;
+    overflow-x: hidden;
+}

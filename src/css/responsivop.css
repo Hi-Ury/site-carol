@@ -1,0 +1,502 @@
+@media (max-width: 1440px) {
+    .buscar {
+        left: 30px;
+    }
+    .foto {
+        left: 50px;
+    }
+    .descricao {
+        left: 850px;
+    }
+    .precos {
+        left: 850px;
+    }
+    .entrega {
+        left: 900px;
+    }
+    .especificacoes {
+        left: -180px;
+    }
+    .pagamento {
+        top: 25px;
+        left: 100px;
+    }
+
+    .seguranca {
+        top: 25px;
+        left: 390px;
+    }
+
+    .instituicao {
+        white-space: nowrap;
+        top: 25px;
+        left: 680px;
+    }
+
+    .ajuda {
+        white-space: nowrap;
+        top: 25px;
+        left: 940px;
+    }
+
+    .social {
+        top: 25px;
+        left: 1100px;
+    }
+
+    .autor {
+        left: 580px;
+    }
+}
+
+@media (max-width: 1400px) {
+    .buscar {
+        left: 55px;
+    }
+
+    .carrinho img {
+        right: 40px;
+    }
+
+    .conta img {
+        right: 70px;
+    }
+    .descricao {
+        left: 800px;
+    }
+    .precos {
+        left: 800px;
+    }
+    .entrega {
+        left: 850px;
+    }
+    .especificacoes {
+        left: -180px;
+    }
+    .pagamento {
+        top: 25px;
+        left: 100px;
+    }
+
+    .seguranca {
+        top: 25px;
+        left: 390px;
+    }
+
+    .instituicao {
+        white-space: nowrap;
+        top: 25px;
+        left: 680px;
+    }
+
+    .ajuda {
+        white-space: nowrap;
+        top: 25px;
+        left: 940px;
+    }
+
+    .social {
+        top: 25px;
+        left: 1100px;
+    }
+
+    .autor {
+        left: 580px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .logo img {
+        left: 20px;
+    }
+
+    #pesquisa {
+        padding-right: 250px;
+    }
+
+    .buscar {
+        left: 40px;
+    }
+    .foto {
+        max-width: 600px;
+        left: -40px;
+    }
+    .descricao {
+        left: 500px;
+    }
+    .precos {
+        left: 500px;
+    }
+    .entrega {
+        left: 720px;
+    }
+    .pagamento {
+        left: 5px;
+    }
+
+    .seguranca {
+        left: 250px;
+    }
+
+    .instituicao {
+        left: 500px;
+    }
+
+    .ajuda {
+        left: 740px;
+    }
+
+    .social {
+        white-space: nowrap;
+        left: 850px;
+    }
+
+    .autor {
+        white-space: nowrap;
+        left: 400px;
+    }
+}
+
+@media (max-width: 768px) {
+    .logo img {
+        left: 2px;
+        max-width: 200px;
+    }
+
+    #pesquisa {
+        padding-right: 100px;
+    }
+
+    .buscar {
+        top: 5px;
+    }
+    main {
+        padding-bottom: 300px;
+    }
+    .foto {
+        max-width: 600px;
+        left: 90px;
+    }
+    .descricao {
+        left: 150px;
+        top: 80px;
+    }
+    .precos {
+        left: 150px;
+        top: 125px;
+    }
+    .entrega {
+        top: 50px;
+        left: 200px;
+    }
+    .especificacoes {
+        top: 230px;
+    }
+    footer {
+        padding-bottom: 260px;
+    }
+
+    .pagamento {
+        left: 100px;
+    }
+
+    .seguranca {
+        left: 420px;
+    }
+
+    .instituicao {
+        top: 150px;
+        left: 70px;
+    }
+    
+    .ajuda {
+        top: 150px;
+        left: 350px;
+    }
+
+    .social {
+        top: 150px;
+        left: 550px;
+    }
+
+    .autor {
+        left: 250px;
+    }
+}
+
+@media (max-width: 703px) {
+    .buscar {
+        left: 4px;
+    }
+
+    .conta img {
+        max-width: 80px;
+        left: 540px;
+    }
+    .carrinho img {
+        max-width: 50px;
+        left: 610px;
+    }
+    .instagram img {
+        right: 13px;
+    }
+    .foto {
+        max-width: 500px;
+        left: 100px;
+    }
+    .descricao {
+        left: 100px;
+        top: 80px;
+    }
+    .precos {
+        left: 100px;
+        top: 125px;
+    }
+    .entrega {
+        top: 50px;
+        left: 150px;
+    }
+    .especificacoes {
+        top: 230px;
+    }
+    .pagamento {
+        left: 80px;
+    }
+
+    .seguranca {
+        left: 400px;
+    }
+
+    .instituicao {
+        top: 150px;
+        left: 20px;
+    }
+
+    .ajuda {
+        top: 150px;
+        left: 300px;
+    }
+
+    .social {
+        top: 150px;
+        left: 500px;
+    }
+
+    .autor {
+        left: 250px;
+    }
+}
+
+@media (max-width: 688px) {
+    .entrega {
+        top: 128px;
+        left: 150px;
+    }
+    .especificacoes {
+        top: 200px;
+        left: 100px;
+    }
+}
+
+@media (max-width: 420px) {
+    header {
+        padding-bottom: 24px;
+    }
+
+    .logo img {
+        top: 20px;
+    }
+
+    #pesquisa {
+        padding-right: 150px;
+    }
+
+    .buscar {
+        left: 10px;
+        top: 20px;
+    }
+
+    .conta img {
+        max-width: 70px;
+        left: 260px;
+        top: 23px;
+    }
+    .carrinho img {
+        max-width: 40px;
+        top: 23px;
+        left: 330px;
+    }
+    .foto {
+        max-width: 300px;
+        left: 50px;
+    }
+    .descricao {
+        max-width: 355px;
+        font-size: 13px;
+        left: 20px;
+        top: 50px;
+    }
+    .precos {
+        max-width: 350px;
+        font-size: 13px;
+        left: 20px;
+        top: 125px;
+    }
+    .entrega {
+        top: 130px;
+        left: 80px;
+    }
+    #quantidade {
+        top: 0px;
+        left: 242px;
+    }
+    .comprar {
+        max-width: 120px;
+        left: 220px;
+        top: 11px;
+    }
+    .comprar img {
+        left: 10px;
+    }
+    .comprar h1{
+        left: 15px;
+        font-size: 13px;
+    }
+    .especificacoes {
+        max-width: 335px;
+        font-size: 13px;
+        top: 220px;
+        left: 20px;
+    }
+    footer {
+        padding-bottom: 180px;
+    }
+
+    .pagamento {
+        font-size: 10px;
+        left: 10px;
+    }
+
+    .pagamento img {
+        max-width: 150px;
+    }
+
+    .seguranca {
+        font-size: 10px;
+        left: 200px;
+    }
+
+    .seguranca img {
+        max-width: 150px;
+    }
+
+    .instituicao {
+        font-size: 10px;
+        top: 110px;
+        left: 10px;
+    }
+
+    .ajuda {
+        font-size: 10px;
+        top: 110px;
+        left: 180px;
+    }
+
+    .social {
+        font-size: 10px;
+        top: 110px;
+        left: 280px;
+    }
+
+    .autor {
+        left: 40px;
+    }
+}
+
+@media (max-width: 375px) {
+    #pesquisa {
+        padding-right: 113px;
+    }
+
+    .carrocel img {
+        max-width: 340px;
+    }
+
+    .conta img {
+        left: 230px;
+    }
+
+    .carrinho img {
+        left: 300px;
+    }
+    .foto {
+        left: 30px;
+    }
+    .descricao {
+        max-width: 315px;
+    }
+    .precos {
+        max-width: 320px;
+    }
+    .precos h1, p{
+        left: 10px;
+    }
+    .comprar {
+        left: 190px;
+    }
+    #quantidade {
+        left: 212px;
+    }
+    .entrega {
+        max-width: 300px;
+        left: 60px;
+    }
+    .especificacoes {
+        max-width: 300px;
+    }
+    .ajuda {
+        left: 170px;
+    }
+
+    .social {
+        left: 250px;
+    }
+
+    .autor {
+        max-width: 280px;
+        left: 40px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 360px) {
+    .carrinho img {
+        left: 290px;
+    }
+
+    #pesquisa {
+        padding-right: 105px;
+    }
+
+    .buscar {
+        left: 5px;
+    }
+    .foto {
+        left: 25px;
+    }
+    .descricao {
+        left: 12px;
+        }
+    .precos {
+        left: 12px;
+    }
+    .entrega {
+        left: 90px;
+    }
+    .entrega input{
+        max-width: 100px;
+    }
+    .social {
+        left: 240px;
+    }
+}

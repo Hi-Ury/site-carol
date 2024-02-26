@@ -1,0 +1,47 @@
+*{
+    background-color: black;
+    margin: 3px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.primeiro img{
+    max-width: 400px;
+}
+
+.segundo img{
+    max-width: 400px;
+    padding-bottom: 50px;
+}
+
+a{
+    padding: 10px;
+    background-color: red;
+}
+
+a :hover{
+    background-color: blue;
+}
+
+@media (max-width: 768px) {
+    .primeiro img{
+        max-width: 200px;
+    }
+    
+    .segundo img{
+        max-width: 200px;
+        }
+}
+
+@media (max-width: 420px) {
+    .primeiro img{
+        max-width: 100px;
+    }
+    
+    .segundo img{
+        max-width: 100px;
+        }
+}
